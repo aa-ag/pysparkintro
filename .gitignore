@@ -2,6 +2,9 @@
 settings
 settings.py
 
+# env
+pyspark
+
 config
 config.py
 
